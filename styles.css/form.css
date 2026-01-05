@@ -1,0 +1,16 @@
+nav li{
+    list-style: none;
+    display: inline;
+    margin-right: 20px;
+}
+nav li a{
+    text-decoration: none;
+}
+nav li:hover{
+    background-color: beige;
+}
+form .basic-info label{
+    display: block;
+    margin-top: 15px;
+  
+}
